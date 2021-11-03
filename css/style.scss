@@ -1,7 +1,8 @@
 $main__color: #000000;
 $hover__color: #ffffff;
-$secon_color: #df6267;
+$secon__color: #df6267;
 $color__border: #d2d2d2;
+$color__text: #9a8989;
 $size: 100%;
 $fz: 2rem;
 
@@ -50,3 +51,14 @@ body {
         border-bottom: 2px solid $color__border;
     }
 }
+
+.section {
+    .section__title {
+        margin-top: 12.5%;
+        margin-left: 29.8%;
+        font-size: $fz/1.7;
+        word-spacing: 10px;
+        font-weight: 600;
+    }
+}
+
