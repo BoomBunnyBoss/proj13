@@ -152,4 +152,13 @@ body {
 .main .ident .content__title {
   margin-left: 40%;
 }
+
+.main .last {
+  margin-top: 6%;
+}
+
+.main .last .content__title {
+  margin-top: 2%;
+  margin-left: 38%;
+}
 /*# sourceMappingURL=style.css.map */
