@@ -135,7 +135,9 @@ body {
 .main .main__content .content__text {
   text-align: center;
   margin-top: 2%;
+  padding-bottom: 4.2%;
   line-height: 1.8;
   color: #9a8989;
+  border-bottom: 2px solid #d2d2d2;
 }
 /*# sourceMappingURL=style.css.map */
