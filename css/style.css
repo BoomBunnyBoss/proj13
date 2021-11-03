@@ -140,4 +140,12 @@ body {
   color: #9a8989;
   border-bottom: 2px solid #d2d2d2;
 }
+
+.main .ident {
+  margin-top: 6%;
+}
+
+.main .ident .button {
+  padding: 2% 8.8%;
+}
 /*# sourceMappingURL=style.css.map */
