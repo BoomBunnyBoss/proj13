@@ -60,5 +60,14 @@ body {
         word-spacing: 10px;
         font-weight: 600;
     }
+    .section__text {
+        text-align: center;
+        margin-top: 3%;
+        margin-left: -1%;
+        padding-bottom: 9%;
+        font-size: $fz/2.5;
+        line-height: 2.2;
+        border-bottom: 2px solid $color__border;
+    }
 }
 
