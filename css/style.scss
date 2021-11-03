@@ -14,6 +14,10 @@ body {
     margin: auto 10%;
 }
 
+.main__header,
+.upper__picture {
+    display: flex;
+}
 
 .header {
     .header__menu {
@@ -71,3 +75,29 @@ body {
     }
 }
 
+.main {
+    .main__header {
+        margin-top: 1.4%;
+        .main__title {
+            margin-left: 2.5%;
+            font-weight: 600;
+            font-size: $fz/1.5;
+            font-family:'Times New Roman', Times, serif;
+        }
+        .main__text {
+            margin-left: 66.5%;
+            font-size: $size/1.1;
+        }
+    }
+    .main__picture {
+        margin-top: 6%;
+        margin-left: 2%;
+        .upper__picture {
+            .item {
+                .picture {
+                    width: 92%;
+                }
+            }
+        }
+    }
+}
