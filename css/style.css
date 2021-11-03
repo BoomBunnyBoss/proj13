@@ -148,4 +148,8 @@ body {
 .main .ident .button {
   padding: 2% 8.8%;
 }
+
+.main .ident .content__title {
+  margin-left: 40%;
+}
 /*# sourceMappingURL=style.css.map */
