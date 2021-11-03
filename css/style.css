@@ -7,7 +7,8 @@ body {
 }
 
 .main__header,
-.upper__picture {
+.upper__picture,
+.bottom__picture {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -92,7 +93,12 @@ body {
   margin-left: 2%;
 }
 
-.main .main__picture .upper__picture .item .picture {
+.main .main__picture .upper__picture .item .picture,
+.main .main__picture .bottom__picture .item .picture {
   width: 92%;
+}
+
+.main .bottom__picture {
+  margin-top: 6%;
 }
 /*# sourceMappingURL=style.css.map */

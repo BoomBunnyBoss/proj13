@@ -15,7 +15,8 @@ body {
 }
 
 .main__header,
-.upper__picture {
+.upper__picture,
+.bottom__picture {
     display: flex;
 }
 
@@ -92,12 +93,16 @@ body {
     .main__picture {
         margin-top: 6%;
         margin-left: 2%;
-        .upper__picture {
+        .upper__picture,
+        .bottom__picture {
             .item {
                 .picture {
                     width: 92%;
                 }
             }
         }
+    }
+    .bottom__picture {
+        margin-top: 6%;
     }
 }
