@@ -150,9 +150,14 @@ body {
     }
     .last {
         margin-top: 6%;
+        .button {
+            margin-top: 0.5%;
+            margin-left: 37.2%;
+        }
         .content__title {
             margin-top: 2%;
-            margin-left: 38%;
+            margin-left: 39%;
+            font-size: $fz/1.7;
         }
     }
 }

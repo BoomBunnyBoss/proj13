@@ -157,8 +157,14 @@ body {
   margin-top: 6%;
 }
 
+.main .last .button {
+  margin-top: 0.5%;
+  margin-left: 37.2%;
+}
+
 .main .last .content__title {
   margin-top: 2%;
-  margin-left: 38%;
+  margin-left: 39%;
+  font-size: 1.17647rem;
 }
 /*# sourceMappingURL=style.css.map */
